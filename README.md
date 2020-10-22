@@ -1,3 +1,5 @@
+# Visit [the article](https://viblo.asia/p/routing-in-nextjs-WAyK8DmoKxX) for better version.
+
 Next.js has one of the most robust and easy to use routes that you can just use out of the box. You don't need to hassle by configuring it.
 Because Next.js follows the `Convention over Configuration` philosophy, every file inside the `pages` directory will be autmatically considered as a route. 
 So, let's see what different types of routing we get with Next.
@@ -199,5 +201,3 @@ export default Page
 ```
 
 The URL will get updated to `/?counter=123` and the page won't get replaced, only the state of the route is changed.
-
-# Learning Materials
